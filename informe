@@ -1,0 +1,44 @@
+
+---
+
+## 🗺️ Mapas Generados
+
+### **1️⃣ Mapa de Caña Panelera**
+
+📍 *Ubicación:* Occidente y suroeste de Nariño
+
+🔴 **Mayormente no apto** para la producción.  
+🟠 **Algunas áreas de aptitud media** detectadas.  
+⚫ **Zonas protegidas** restringen la expansión agrícola.  
+
+### **2️⃣ Mapa de Papa**
+📍 *Ubicación:* Centro y suroeste de Nariño  
+🟠 **Mayor cantidad de áreas aptas** en comparación con caña panelera.  
+⚫ **Algunas zonas protegidas limitan su expansión agrícola.**  
+
+### **3️⃣ Mapa de Arveja**
+📍 *Ubicación:* Oriente de Nariño  
+🟠 **Cultivo con mayor distribución de tierras aptas** en la región.  
+🟡 **Requiere manejo adecuado del suelo en algunas áreas.**  
+
+---
+
+## 📊 Análisis Comparativo
+
+| Cultivo         | No Apta (%) | Exclusión Legal (%) | Aptitud Media (%) | Aptitud Baja (%) |
+|----------------|------------|--------------------|------------------|------------------|
+| **Caña Panelera** | 🔴 Alta      | ⚫ Media           | 🟠 Baja         | 🟡 Muy Baja     |
+| **Papa**        | 🔴 Media     | ⚫ Media           | 🟠 Media        | 🟡 Baja         |
+| **Arveja**      | 🔴 Baja      | ⚫ Media           | 🟠 Alta         | 🟡 Media        |
+
+✅ **Conclusión:** La arveja es el cultivo con **mayor potencial agrícola** en la región, seguida por la papa.  
+❌ **Limitaciones:** Caña panelera tiene pocas áreas óptimas y enfrenta restricciones legales y ambientales.
+
+---
+
+## ⚡ Instalación y Uso
+
+### 🔹 **1️⃣ Clonar el Repositorio**
+```bash
+git clone https://github.com/usuario/proyecto-aptitud-agricola.git
+cd proyecto-aptitud-agricola
