@@ -8,6 +8,9 @@ Este proyecto tiene como objetivo analizar la **aptitud agrícola** de distintos
 
 Los datos provienen de fuentes oficiales de **datos abiertos de Colombia** y se procesan con **Python, GeoPandas y Folium** para la visualización en mapas interactivos.
 
+![image](https://github.com/user-attachments/assets/ea74f3eb-a642-4ab5-ab94-4f87e277cb71)
+
+
 ---
 
 ## 📊 Datos Utilizados
@@ -48,8 +51,8 @@ El proyecto utiliza las siguientes tecnologías:
 🚀 **¿Quieres agregar más detalles o imágenes en el README?** 📊
 
 📝 Créditos y Licencia
-📌 Desarrollado por: [Tu Nombre o Equipo]
+📌 Desarrollado por: Iván Barajas Hurtado
 📌 Licencia: MIT License
-📌 Contacto: [Tu Correo o GitHub]
+📌 Contacto: ivanbarajashurtado@gmail.com
 
 🌍 ¡Contribuye al proyecto dejando tus sugerencias o realizando un fork! 🚀
